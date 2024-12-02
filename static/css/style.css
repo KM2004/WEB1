@@ -1,0 +1,154 @@
+/* TODO:  */
+body {
+    background-color: #BF9270;
+    text-align: center;
+  }
+  
+  /* TODO: titulos*/
+  .titulo {
+    color: #51050F;
+    font-family: "Lobster";
+    font-size: 2.5rem;
+    font-weight: 400;
+    line-height: 2;
+  }
+  
+  .titulo20 {
+    font-size: 2.5rem;
+    font-weight: 400;
+    color: #0C1E7F;
+    font-family: "Slabo 27px";
+  }
+  
+  /* TODO: parrafos y divisiones */
+  .parrafos {
+    font-family: "Slabo 27px";
+    color: #464E2E;
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+  
+  .division {
+    position: relative;
+    left: 42%;
+    background-color: #BF9270;
+    opacity: 100;
+    border-color: #072227;
+    width: 15%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 30px;
+  }
+  
+  /* Encabezado */
+  #principal {
+    text-align: center;
+    background-color: #A3423C;
+    padding-top: 100px;
+  }
+  
+  .fuente-Encabezado {
+    font-family: "Patrick Hand";
+    font-weight: 900;
+    line-height: 2;
+    font-size: 5rem;
+    margin: 50px auto 0 auto;
+    color: #0C1E7F;
+  }
+  
+  .fuente-Encabezado-p {
+    color: #0C1E7F;
+    font-family: "Pacifico";
+    font-size: 2.5rem;
+    font-weight: lighter;
+    line-height: 1.5;
+  }
+  
+  .pro {
+    text-decoration: underline;
+  }
+  
+  /* nube-Encabezado */
+  .nube1, .nube2, .nube3 {
+    position: absolute;
+    border-radius: 100%;
+  }
+  
+  .nube1 {
+    right: 320px;
+    top: 50px;
+  }
+  
+  .nube2 {
+    right: 350px;
+  }
+  
+  .nube3 {
+    left: 325px;
+    top: 270px;
+    bottom: 420px;
+  }
+  
+  /* intermedio */
+  #intermedio {
+    padding-bottom: 100px;
+  }
+  
+  .k-picture {
+    border-radius: 20%;
+    margin-top: 50px;
+    height: 200px;
+  }
+  
+  .perfil {
+    padding: 50px 80px
+  }
+  
+  /* caracteristicas-intermedio */
+  .fila-de-habilidades {
+    text-align: left;
+    line-height: 1.5rem;
+    width: 80%;
+    margin: 100px auto 100px auto;
+  }
+  
+  .ajedrez {
+    margin-right: 30px;
+    float: left;
+    width: 20%;
+    border-radius: 100%;
+  }
+  
+  .lol {
+    float: right;
+    margin-left: 30px;
+    width: 20%;
+    border-radius: 100%;
+  }
+  
+  /* contct-me */
+  #contct-me .parrafos {
+    margin: 30px 80px 60px 80px;
+  }
+  
+  /* pie */
+  #ultimo .parrafos {
+    color: #DAD992;
+  }
+  
+  #ultimo {
+    margin-top: 100px;
+    background-color: #781D42;
+    padding-top: 50px;
+    padding-bottom: 25px;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #DE834D;
+  }
+  
+  .icon{
+    width: 100px;
+  }
+  
